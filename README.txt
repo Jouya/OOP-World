@@ -9,3 +9,4 @@ Dependencies: Bootstrap, Chrome, Safari
 Authors: Camilo Pareja, Emme McCabe, Jouya Mahmoudi
 
 Acknowledgments: Thank you to Planet Coaster for inspiring our website idea!
+Thank you to Six Flags for its ticket sales interface.
